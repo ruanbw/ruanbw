@@ -23,7 +23,8 @@ Language and Tools
 
 Github Stats
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomorx&layout=compact" />
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
+
+最常用的语言
+
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1813967922&layout=compact" />
