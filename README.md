@@ -1,6 +1,7 @@
 # Hi,l'm rr
 ---
 目前正在学习前端相关的知识:Vue、React、Flutter、JAVA...
+
 联系方式:1813967922@qq.com
 ---
 
@@ -21,7 +22,7 @@ Language and Tools
 
 Github Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jomorx&layout=compact" />
 </div>
