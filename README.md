@@ -6,7 +6,7 @@
 
 ---
 
-Language and Tools
+使用的语言及工具
 
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
@@ -21,7 +21,7 @@ Language and Tools
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 
-Github Stats
+Github 统计数据
 
 <img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
 
