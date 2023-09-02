@@ -1,6 +1,6 @@
 # Hi,l'm rr
 
-目前正在学习前端相关的知识:Vue、React、Flutter、JAVA...
+目前正在学习前端相关的知识:Vue、React、Flutter、Java...
 
 联系方式:1813967922@qq.com
 
