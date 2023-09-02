@@ -1,4 +1,10 @@
-# Hello
+# Hi,l'm rr
+---
+目前正在学习前端相关的知识:Vue、React、Flutter、JAVA...
+联系方式:1813967922@qq.com
+---
+
+Language and Tools
 
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
@@ -12,6 +18,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
+
+Github Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
