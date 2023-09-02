@@ -1,8 +1,12 @@
-# Hi,l'm rr
+# Hi,l'm 软软
 
 目前正在学习前端相关的知识:Vue、React、Flutter、Java...
 
 联系方式:1813967922@qq.com
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;软软同学祝您今天愉快!&center=true&font=Roboto&size=27" />
 
 ---
 
@@ -20,6 +24,10 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
+
+Github 打卡
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> 
 
 Github 统计数据
 
