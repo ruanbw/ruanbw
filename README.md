@@ -14,8 +14,6 @@
 
 使用的语言及工具
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1813967922&theme=tokyonight&hide=python,shell" />
-
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
@@ -37,6 +35,4 @@ Github 统计数据
 
 <img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
 
-最常用的语言
-
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1813967922&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1813967922&theme=tokyonight&hide=python,shell" />
