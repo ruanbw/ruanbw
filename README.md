@@ -8,7 +8,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=今日事，今日毕!;活着就是一个个无可替代的;日子的累积;软软同学祝您今天愉快!&center=true&font=Roboto&size=27" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=完蛋了;真找不到工作了;&center=true&font=Roboto&size=27" />
 
 ---
 
