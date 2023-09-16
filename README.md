@@ -14,6 +14,8 @@
 
 使用的语言及工具
 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1813967922&theme=tokyonight&hide=python,shell" />
+
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
