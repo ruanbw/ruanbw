@@ -6,13 +6,11 @@
 
 个人首页:https://1813967922.github.io/Blogs
 
----
+```javascript
+document.writeln("Hello World !")
+```
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=完蛋了;真找不到工作了;&center=true&font=Roboto&size=27" />
-
----
-
-使用的语言及工具
+- 使用的语言及工具
 
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
@@ -27,13 +25,15 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white">  
 </span>
 
-Github 打卡
+- Github 打卡
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yang-tian-hub" /> 
 
-Github 统计数据
+- Github 统计
 
-<span>
-  <img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1813967922&theme=tokyonight&hide=python,shell" />
-</span>
+<img src="https://github-readme-stats.vercel.app/api?username=1813967922&show_icons=true&theme=transparent" /> 
+
+- 使用最多的语言
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1813967922&theme=tokyonight&hide=python,shell" />
+
