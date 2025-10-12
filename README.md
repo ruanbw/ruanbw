@@ -27,3 +27,5 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=fff" />
 </p>
+
+![](https://komarev.com/ghpvc/?username=ruanbw&style=flat-square)
